@@ -1,0 +1,20 @@
+
+.weather-dashbord{
+    font-size: 38px;
+    background-color:navy;
+}
+
+.search-header{
+    font-size:26px;
+    font-weight: bold;
+}
+
+.city-name{
+    font-size:32px;
+}
+
+.forecast-date{
+    font-size:20px;
+}
+
+
