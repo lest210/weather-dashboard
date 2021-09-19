@@ -13,7 +13,7 @@ function initPage() {
     console.log(searchHistory);
     
 
-    const APIKey = "c9a9ed03a355403f4cb9a36e931c0b4a";
+    const APIKey = "b571bf851060340b563f91953ad45635";
 
 
     function getWeather(cityName) {
